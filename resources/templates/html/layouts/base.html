@@ -56,14 +56,6 @@
 
         <div class="col-md-3">
             <div id="sidebar">
-                <h3>Links</h3>
-                <ul id="links">
-                    <li><a href="http://cryogenweb.org/docs/home.html">Cryogen Docs</a></li>
-                    <li><a href="http://carmenla.me/blog/index.html">Carmen's Blog</a></li>
-                    {% for page in sidebar-pages %}
-                    <li><a href="{{page.uri}}">{{page.title}}</a></li>
-                    {% endfor %}
-                </ul>
                 {% if latest-posts|not-empty %}
                 <div id="recent">
                     <h3>Recent Posts</h3>
@@ -87,8 +79,10 @@
             </div>
         </div>
     </div>
-    <footer>Copyright &copy; 2014 BLOGAWESOME
-        <p style="text-align: center;">Powered by <a href="http://cryogenweb.org">Cryogen</a></p></footer>
+    <footer>
+      &copy; 2015 - <a href="http://giovannilodi.com">Giovanni Lodi</a>
+      <p style="text-align: center;">Powered by <a href="http://cryogenweb.org">Cryogen</a></p>
+    </footer>
 </div>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
