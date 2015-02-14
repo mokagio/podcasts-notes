@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://mokagio.github.io/podcasts-notes' rel='self' type='application/rss+xml'/>
+<generator>
+clj-rss
+</generator>
+<title>
+Podcasts Notes
+</title>
+<link>
+http://mokagio.github.io/podcasts-notes
+</link>
+<description>
+Notes from interesting podcasts
+</description>
+<lastBuildDate>
+Sun, 15 Feb 2015 09:28:05 +1100
+</lastBuildDate>
+<author>
+mokagio
+</author>
+</channel>
+</rss>
