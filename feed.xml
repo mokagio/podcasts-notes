@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://mokagio.github.io/podcasts-notes' rel='self' type='application/rss+xml'/>
+<generator>
+clj-rss
+</generator>
+<title>
+Podcasts Notes
+</title>
+<link>
+http://mokagio.github.io/podcasts-notes
+</link>
+<description>
+Notes from interesting podcasts
+</description>
+<lastBuildDate>
+Sun, 15 Feb 2015 09:28:05 +1100
+</lastBuildDate>
+<author>
+mokagio
+</author>
+<item>
+<guid>
+http://mokagio.github.io/podcasts-notes/podcasts-notes/posts/2015-02-15-giantrobots-132-job-stories.html
+</guid>
+<link>
+http://mokagio.github.io/podcasts-notes/podcasts-notes/posts/2015-02-15-giantrobots-132-job-stories.html
+</link>
+<title>
+Giant Robots 132
+</title>
+<description>
+&lt;blockquote&gt;&lt;p&gt; &lt;a href='http://giantrobots.fm/132'&gt;&quot;132: Story Tellers&quot;&lt;/a&gt; &lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The episode is about the conversion from user stories to &lt;a href='http://alanklement.blogspot.com.au/2013/09/replacing-user-story-with-job-story.html'&gt;job stories&lt;/a&gt; in Thoughtbots, and the positive effects it brought.&lt;/p&gt;&lt;p&gt;Aside from the concept of job story a big insight from this episode is the methodology Thoughtbots uses to introduce changes in their workflow. They have a research Trello board where every employee can suggest experiments, saying why that particular approach is working for them, and why they think it would help the company.&lt;/p&gt;&lt;p&gt;I really like this scientific approach to experiment and improvement. Never assume that what works for other people will actually work for you, and never think that your current way of doing things is the best one. There is always room for improvement.&lt;/p&gt;&lt;p&gt;Another interesting takeaway from the episode is the misconception on velocity, and how hard it is to communicate to management what it really is.&lt;/p&gt;&lt;p&gt;Finally probably the most important key of the Agile manifesto comes up as well: &quot;People over process&quot;, which is many times forgotten in agencies that sell themselves a Agile.&lt;/p&gt;
+</description>
+<pubDate>
+Sun, 15 Feb 2015 00:00:00 +1100
+</pubDate>
+<author>
+mokagio
+</author>
+</item>
+</channel>
+</rss>
